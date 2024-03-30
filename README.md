@@ -2,6 +2,7 @@
 ## Датасет  
 https://www.kaggle.com/datasets/dansbecker/5-celebrity-faces-dataset/data?select=train  
 ## Подготовительные работы
+Encoder, оптимизация, лоссы и тд брал стандартные из ноубука
 
 ## Latent space  
 ![image](https://github.com/BekusovMikhail/deep_generative_models/assets/63633043/7c5d8e91-2560-4348-892a-cd5200504a35)
