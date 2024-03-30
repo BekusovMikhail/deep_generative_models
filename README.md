@@ -42,3 +42,8 @@ Age:
 ![image](https://github.com/BekusovMikhail/deep_generative_models/assets/63633043/e359ff32-4b2f-4e06-aa3a-4f70c5fe36ac)  
 ![image](https://github.com/BekusovMikhail/deep_generative_models/assets/63633043/0e7fffb4-fa2e-445b-9e48-4224bb14ead8)  
 
+![image](https://github.com/BekusovMikhail/deep_generative_models/assets/63633043/bb2394ee-5df1-4d67-957e-ed923bfc90fd)
+![image](https://github.com/BekusovMikhail/deep_generative_models/assets/63633043/0d0acdaa-c4a8-4dbb-a88d-91d89072393a)
+:)))))
+![image](https://github.com/BekusovMikhail/deep_generative_models/assets/63633043/477da5d7-2474-4ec5-9d82-2543f997f2b4)
+
