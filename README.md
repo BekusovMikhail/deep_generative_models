@@ -3,7 +3,14 @@
 https://www.kaggle.com/datasets/dansbecker/5-celebrity-faces-dataset/data?select=train  
 ## Подготовительные работы
 Encoder, оптимизация, лоссы и тд брал стандартные из ноубука
-
+![image](https://github.com/BekusovMikhail/deep_generative_models/assets/63633043/de1270e5-cf85-420c-973d-5868027b8c35)  
+![image](https://github.com/BekusovMikhail/deep_generative_models/assets/63633043/c077cb9c-164d-4e54-9a90-eca9d15eb584)  
+![image](https://github.com/BekusovMikhail/deep_generative_models/assets/63633043/d444a10a-fb10-4504-beb3-fd47c7fe3d4e)  
+![image](https://github.com/BekusovMikhail/deep_generative_models/assets/63633043/b41f5b0f-3d45-403d-876e-8e4701357021)  
+![image](https://github.com/BekusovMikhail/deep_generative_models/assets/63633043/57b1e3b4-077f-408b-aef3-78a2c5f1d0a8)  
+![image](https://github.com/BekusovMikhail/deep_generative_models/assets/63633043/a3f9e2eb-37bd-473b-9fc9-8d14521cec8e)  
+![image](https://github.com/BekusovMikhail/deep_generative_models/assets/63633043/aa402368-a9f9-4ebe-b26a-0156c1d4d550)  
+![image](https://github.com/BekusovMikhail/deep_generative_models/assets/63633043/fdae3974-ab78-4426-b036-775fbd795f61)  
 ## Latent space  
 ![image](https://github.com/BekusovMikhail/deep_generative_models/assets/63633043/7c5d8e91-2560-4348-892a-cd5200504a35)
 ## Style trasfer
