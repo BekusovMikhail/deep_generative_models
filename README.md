@@ -10,7 +10,7 @@ Encoder, оптимизация, лоссы и тд брал стандартн�
 ![image](https://github.com/BekusovMikhail/deep_generative_models/assets/63633043/57b1e3b4-077f-408b-aef3-78a2c5f1d0a8)  
 ![image](https://github.com/BekusovMikhail/deep_generative_models/assets/63633043/a3f9e2eb-37bd-473b-9fc9-8d14521cec8e)  
 ![image](https://github.com/BekusovMikhail/deep_generative_models/assets/63633043/aa402368-a9f9-4ebe-b26a-0156c1d4d550)  
-![image](https://github.com/BekusovMikhail/deep_generative_models/assets/63633043/fdae3974-ab78-4426-b036-775fbd795f61)  
+![image](https://github.com/BekusovMikhail/deep_generative_models/assets/63633043/e6c9a706-2fd5-4ebf-bded-ac7758ceec72)  
 ## Latent space  
 ![image](https://github.com/BekusovMikhail/deep_generative_models/assets/63633043/7c5d8e91-2560-4348-892a-cd5200504a35)
 ## Style trasfer
@@ -34,6 +34,11 @@ Age:
 ![image](https://github.com/BekusovMikhail/deep_generative_models/assets/63633043/85f6c429-31af-48ea-a687-aa69f1e2989d)
 
 ## Face swap
-![image](https://github.com/BekusovMikhail/deep_generative_models/assets/63633043/ae053c34-5f7a-4d90-9bdc-31038eba4e85)
-![image](https://github.com/BekusovMikhail/deep_generative_models/assets/63633043/5d7f668c-cd8e-4170-bb63-ecd2f001192b)
-![image](https://github.com/BekusovMikhail/deep_generative_models/assets/63633043/fe847fb2-821b-434e-b1ef-ad8ccd75f731)
+![image](https://github.com/BekusovMikhail/deep_generative_models/assets/63633043/ae053c34-5f7a-4d90-9bdc-31038eba4e85)  
+![image](https://github.com/BekusovMikhail/deep_generative_models/assets/63633043/5d7f668c-cd8e-4170-bb63-ecd2f001192b)  
+![image](https://github.com/BekusovMikhail/deep_generative_models/assets/63633043/fe847fb2-821b-434e-b1ef-ad8ccd75f731)  
+  
+![image](https://github.com/BekusovMikhail/deep_generative_models/assets/63633043/1e68eea1-392e-4790-853e-2a748d5fecc4)  
+![image](https://github.com/BekusovMikhail/deep_generative_models/assets/63633043/e359ff32-4b2f-4e06-aa3a-4f70c5fe36ac)  
+![image](https://github.com/BekusovMikhail/deep_generative_models/assets/63633043/0e7fffb4-fa2e-445b-9e48-4224bb14ead8)  
+
