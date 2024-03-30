@@ -34,16 +34,28 @@ Age:
 ![image](https://github.com/BekusovMikhail/deep_generative_models/assets/63633043/85f6c429-31af-48ea-a687-aa69f1e2989d)
 
 ## Face swap
-![image](https://github.com/BekusovMikhail/deep_generative_models/assets/63633043/ae053c34-5f7a-4d90-9bdc-31038eba4e85)  
+![image](https://github.com/BekusovMikhail/deep_generative_models/assets/63633043/ae053c34-5f7a-4d90-9bdc-31038eba4e85)
 ![image](https://github.com/BekusovMikhail/deep_generative_models/assets/63633043/5d7f668c-cd8e-4170-bb63-ecd2f001192b)  
 ![image](https://github.com/BekusovMikhail/deep_generative_models/assets/63633043/fe847fb2-821b-434e-b1ef-ad8ccd75f731)  
   
-![image](https://github.com/BekusovMikhail/deep_generative_models/assets/63633043/1e68eea1-392e-4790-853e-2a748d5fecc4)  
+![image](https://github.com/BekusovMikhail/deep_generative_models/assets/63633043/1e68eea1-392e-4790-853e-2a748d5fecc4)
 ![image](https://github.com/BekusovMikhail/deep_generative_models/assets/63633043/e359ff32-4b2f-4e06-aa3a-4f70c5fe36ac)  
 ![image](https://github.com/BekusovMikhail/deep_generative_models/assets/63633043/0e7fffb4-fa2e-445b-9e48-4224bb14ead8)  
 
 ![image](https://github.com/BekusovMikhail/deep_generative_models/assets/63633043/bb2394ee-5df1-4d67-957e-ed923bfc90fd)
-![image](https://github.com/BekusovMikhail/deep_generative_models/assets/63633043/0d0acdaa-c4a8-4dbb-a88d-91d89072393a)
+![image](https://github.com/BekusovMikhail/deep_generative_models/assets/63633043/0d0acdaa-c4a8-4dbb-a88d-91d89072393a)  
 :)))))
 ![image](https://github.com/BekusovMikhail/deep_generative_models/assets/63633043/477da5d7-2474-4ec5-9d82-2543f997f2b4)
+
+![image](https://github.com/BekusovMikhail/deep_generative_models/assets/63633043/2d331611-d956-470c-8c5f-033b825c87f7)
+![image](https://github.com/BekusovMikhail/deep_generative_models/assets/63633043/c3f72364-c9fa-42fd-9e14-36ddfa47dec4)  
+![image](https://github.com/BekusovMikhail/deep_generative_models/assets/63633043/7d414726-b325-4f9f-8986-6de355998240)  
+
+![image](https://github.com/BekusovMikhail/deep_generative_models/assets/63633043/aeaecf0d-43e0-4155-a7b5-22b6d68e825f)
+![image](https://github.com/BekusovMikhail/deep_generative_models/assets/63633043/d9207c3d-7f12-4943-859f-6ba4fe49d405)  
+![image](https://github.com/BekusovMikhail/deep_generative_models/assets/63633043/574b066f-aa7f-4cf7-b6cb-a4a294138ec3)
+
+![image](https://github.com/BekusovMikhail/deep_generative_models/assets/63633043/1f826334-fea4-49dc-a496-9aa2d3824b5f)
+![image](https://github.com/BekusovMikhail/deep_generative_models/assets/63633043/fc77d639-dc13-41dc-b14b-e98297373cd4)  
+![image](https://github.com/BekusovMikhail/deep_generative_models/assets/63633043/9121bc7e-251f-467a-965a-6893d758cf82)
 
