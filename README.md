@@ -95,7 +95,7 @@ $IMAGE
 13. rank 2 lr 2e-4  
 14. rank 4 lr 2e-4 - **Топ-1 вариант**
 ### 1. rank 32 lr 8e-4
-Папки с визуализацией - ./db_generation_lora_rank_32_lr_up/inf_gen/base_model/768x1024
+Папки с визуализацией - ./HW4/db_generation_lora_rank_32_lr_up/inf_gen/base_model/768x1024
 #### Результаты обучения
 Получилось обучить нейросеть.  
 Считаю, что получился средний результат
@@ -106,11 +106,12 @@ $IMAGE
 $IMAGE  
 $IMAGE  
 $IMAGE  
-./db_generation_lora_rank_32_lr_up/inf_gen/base_model/768x1024
+./HW4/db_generation_lora_rank_32_lr_up/inf_gen/base_model/768x1024
 #### Метрики
 Метрик в данном задании не имеется
 #### График loss и Logging
 $LOSS GPAPH  
+tensorboard --logdir=HW4/db_generation_lora_rank_32_lr_up/log_dir/
 #### Вывод
 Слишком большой rank и lr  
 ### 2. rank 16 lr 8e-4 
@@ -353,11 +354,12 @@ $IMAGE
 $IMAGE  
 $IMAGE  
 $IMAGE  
-./db_generation_lora_rank_32_lr_up/inf_gen/base_model/768x1024
+.HW4/db_generation_lora_rank_32_lr_up/inf_gen/base_model/768x1024
 #### Метрики
 Метрик в данном задании не имеется
 #### График loss и Logging
 $LOSS GPAPH  
+tensorboard --logdir=HW4/db_generation_lora_rank_32_lr_up/log_dir/
 #### Вывод
 Слишком большой rank и lr
 ## Сравнить лучший чекпоинт Unet и Lora
