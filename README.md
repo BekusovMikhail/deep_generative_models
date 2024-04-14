@@ -110,7 +110,7 @@ $IMAGE
 #### Метрики
 Метрик в данном задании не имеется
 #### График loss и Logging
-$LOSS GPAPH  
+![image](https://github.com/BekusovMikhail/deep_generative_models/assets/63633043/cf55b263-b046-40e1-900f-6bf18ae34958)  
 tensorboard --logdir=HW4/db_generation_lora_rank_32_lr_up/log_dir/
 #### Вывод
 Слишком большой rank и lr  
@@ -130,7 +130,7 @@ tensorboard --logdir=HW4/db_generation_lora_rank_32_lr_up/log_dir/
 #### Метрики
 Метрик в данном задании не имеется
 #### График loss и Logging
-$LOSS GPAPH  
+![image](https://github.com/BekusovMikhail/deep_generative_models/assets/63633043/a6c1ce0e-3359-4ac9-9683-3dbd42603f55)  
 tensorboard --logdir=HW4/db_generation_lora_rank_16_lr_up/log_dir/
 #### Вывод
 Слишком большой rank и lr  
@@ -150,7 +150,7 @@ tensorboard --logdir=HW4/db_generation_lora_rank_16_lr_up/log_dir/
 #### Метрики
 Метрик в данном задании не имеется
 #### График loss и Logging
-$LOSS GPAPH  
+![image](https://github.com/BekusovMikhail/deep_generative_models/assets/63633043/26187974-961a-4181-90c3-0d1e2918c056)  
 tensorboard --logdir=HW4/db_generation_lora_rank_8_lr_up/log_dir/
 #### Вывод
 Слишком большой rank и lr  
@@ -170,7 +170,7 @@ tensorboard --logdir=HW4/db_generation_lora_rank_8_lr_up/log_dir/
 #### Метрики
 Метрик в данном задании не имеется
 #### График loss и Logging
-$LOSS GPAPH  
+![image](https://github.com/BekusovMikhail/deep_generative_models/assets/63633043/8ba932c6-4ae3-4ffc-8fbc-262248f260a3)  
 tensorboard --logdir=HW4/db_generation_lora_rank_4_lr_up/log_dir/
 #### Вывод
 Слишком большой rank и lr  
@@ -190,7 +190,7 @@ tensorboard --logdir=HW4/db_generation_lora_rank_4_lr_up/log_dir/
 #### Метрики
 Метрик в данном задании не имеется
 #### График loss и Logging
-$LOSS GPAPH  
+![image](https://github.com/BekusovMikhail/deep_generative_models/assets/63633043/a2f90154-bcd7-4275-97ae-d7c206e28ae5)  
 tensorboard --logdir=HW4/db_generation_lora_rank_32/log_dir/
 #### Вывод
 Слишком большой rank и lr  
@@ -210,7 +210,7 @@ tensorboard --logdir=HW4/db_generation_lora_rank_32/log_dir/
 #### Метрики
 Метрик в данном задании не имеется
 #### График loss и Logging
-$LOSS GPAPH  
+![image](https://github.com/BekusovMikhail/deep_generative_models/assets/63633043/ff89bb7a-4bd6-44e0-bfd4-04e2417748dc)  
 tensorboard --logdir=HW4/db_generation_lora_rank_16/log_dir/
 #### Вывод
 Слишком большой rank и lr  
@@ -230,7 +230,7 @@ tensorboard --logdir=HW4/db_generation_lora_rank_16/log_dir/
 #### Метрики
 Метрик в данном задании не имеется
 #### График loss и Logging
-$LOSS GPAPH  
+![image](https://github.com/BekusovMikhail/deep_generative_models/assets/63633043/56241114-0c61-49f4-bf8b-0b5e03d2f628)  
 tensorboard --logdir=HW4/db_generation_lora_rank_8/log_dir/
 #### Вывод
 Слишком большой rank и lr  
@@ -250,7 +250,7 @@ tensorboard --logdir=HW4/db_generation_lora_rank_8/log_dir/
 #### Метрики
 Метрик в данном задании не имеется
 #### График loss и Logging
-$LOSS GPAPH  
+![image](https://github.com/BekusovMikhail/deep_generative_models/assets/63633043/6c7afb1d-bb06-40fd-ad6b-c6a48f4c5182)  
 tensorboard --logdir=HW4/db_generation_lora_rank_4/log_dir/
 #### Вывод
 Слишком большой rank и lr  
@@ -271,7 +271,7 @@ tensorboard --logdir=HW4/db_generation_lora_rank_4/log_dir/
 #### Метрики
 Метрик в данном задании не имеется
 #### График loss и Logging
-$LOSS GPAPH  
+![image](https://github.com/BekusovMikhail/deep_generative_models/assets/63633043/7bbf967d-5a0f-46b1-8b06-fb0dc93f09f2)  
 tensorboard --logdir=HW4/db_generation_lora_rank_32_lr_up_up/log_dir/
 #### Вывод
 Слишком большой rank и lr  
@@ -291,7 +291,7 @@ tensorboard --logdir=HW4/db_generation_lora_rank_32_lr_up_up/log_dir/
 #### Метрики
 Метрик в данном задании не имеется
 #### График loss и Logging
-$LOSS GPAPH  
+![image](https://github.com/BekusovMikhail/deep_generative_models/assets/63633043/a39d123f-10d5-4303-9225-9db48335bcb4)  
 tensorboard --logdir=HW4/db_generation_lora_rank_16_lr_up_up/log_dir/
 #### Вывод
 Слишком большой rank и lr  
@@ -311,7 +311,7 @@ tensorboard --logdir=HW4/db_generation_lora_rank_16_lr_up_up/log_dir/
 #### Метрики
 Метрик в данном задании не имеется
 #### График loss и Logging
-$LOSS GPAPH  
+![image](https://github.com/BekusovMikhail/deep_generative_models/assets/63633043/790e2b15-3221-40d0-b977-855b6e296299)  
 tensorboard --logdir=HW4/db_generation_lora_rank_8_lr_up_up/log_dir/
 #### Вывод
 Слишком большой rank и lr  
@@ -331,7 +331,7 @@ tensorboard --logdir=HW4/db_generation_lora_rank_8_lr_up_up/log_dir/
 #### Метрики
 Метрик в данном задании не имеется
 #### График loss и Logging
-$LOSS GPAPH  
+![image](https://github.com/BekusovMikhail/deep_generative_models/assets/63633043/50a5d002-71a3-48fc-8537-8d6bd1a731e2)  
 tensorboard --logdir=HW4/db_generation_lora_rank_4_lr_up_up/log_dir/
 #### Вывод
 Слишком большой rank и lr  
@@ -351,7 +351,7 @@ tensorboard --logdir=HW4/db_generation_lora_rank_4_lr_up_up/log_dir/
 #### Метрики
 Метрик в данном задании не имеется
 #### График loss и Logging
-$LOSS GPAPH  
+![image](https://github.com/BekusovMikhail/deep_generative_models/assets/63633043/4e3fb408-b046-43c8-9a2c-e10969ae1145)  
 tensorboard --logdir=HW4/db_generation_lora_rank_2/log_dir/
 #### Вывод
 Слишком большой rank и lr  
@@ -371,7 +371,7 @@ tensorboard --logdir=HW4/db_generation_lora_rank_2/log_dir/
 #### Метрики
 Метрик в данном задании не имеется
 #### График loss и Logging
-$LOSS GPAPH  
+![image](https://github.com/BekusovMikhail/deep_generative_models/assets/63633043/205915db-c9b9-4f88-92ff-69116af046a2)  
 tensorboard --logdir=HW4/db_generation_lora_rank_4_lr_half/log_dir/
 #### Вывод
 Слишком большой rank и lr
