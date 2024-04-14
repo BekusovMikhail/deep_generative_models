@@ -95,7 +95,7 @@ $IMAGE
 13. rank 2 lr 2e-4  
 14. rank 4 lr 2e-4 - **Топ-1 вариант**
 ### 1. rank 32 lr 8e-4
-Папки с визуализацией - ./HW4/db_generation_lora_rank_32_lr_up/inf_gen/base_model/768x1024
+Папка с визуализацией - ./HW4/db_generation_lora_rank_32_lr_up/inf_gen/base_model/768x1024
 #### Результаты обучения
 Получилось обучить нейросеть.  
 Считаю, что получился средний результат
@@ -115,7 +115,7 @@ tensorboard --logdir=HW4/db_generation_lora_rank_32_lr_up/log_dir/
 #### Вывод
 Слишком большой rank и lr  
 ### 2. rank 16 lr 8e-4 
-Папки с визуализацией - ./db_generation_lora_rank_16_lr_up/inf_gen/base_model/768x1024
+Папка с визуализацией - ./HW4/db_generation_lora_rank_16_lr_up/inf_gen/base_model/768x1024
 #### Результаты обучения
 Получилось обучить нейросеть.  
 Считаю, что получился средний результат
@@ -126,15 +126,16 @@ $IMAGE
 $IMAGE  
 $IMAGE  
 $IMAGE  
-./db_generation_lora_rank_32_lr_up/inf_gen/base_model/768x1024
+./HW4/db_generation_lora_rank_16_lr_up/inf_gen/base_model/768x1024
 #### Метрики
 Метрик в данном задании не имеется
 #### График loss и Logging
 $LOSS GPAPH  
+tensorboard --logdir=HW4/db_generation_lora_rank_16_lr_up/log_dir/
 #### Вывод
 Слишком большой rank и lr  
 ### 3. rank 8 lr 8e-4
-Папки с визуализацией - ./db_generation_lora_rank_8_lr_up/inf_gen/base_model/768x1024
+Папка с визуализацией - ./HW4/db_generation_lora_rank_8_lr_up/inf_gen/base_model/768x1024
 #### Результаты обучения
 Получилось обучить нейросеть.  
 Считаю, что получился средний результат
@@ -145,15 +146,16 @@ $IMAGE
 $IMAGE  
 $IMAGE  
 $IMAGE  
-./db_generation_lora_rank_32_lr_up/inf_gen/base_model/768x1024
+./HW4/db_generation_lora_rank_8_lr_up/inf_gen/base_model/768x1024
 #### Метрики
 Метрик в данном задании не имеется
 #### График loss и Logging
 $LOSS GPAPH  
+tensorboard --logdir=HW4/db_generation_lora_rank_8_lr_up/log_dir/
 #### Вывод
 Слишком большой rank и lr  
 ### 4. rank 4 lr 8e-4
-Папки с визуализацией - ./db_generation_lora_rank_4_lr_up/inf_gen/base_model/768x1024
+Папка с визуализацией - ./HW4/db_generation_lora_rank_4_lr_up/inf_gen/base_model/768x1024
 #### Результаты обучения
 Получилось обучить нейросеть.  
 Считаю, что получился средний результат
@@ -164,15 +166,16 @@ $IMAGE
 $IMAGE  
 $IMAGE  
 $IMAGE  
-./db_generation_lora_rank_32_lr_up/inf_gen/base_model/768x1024
+./HW4/db_generation_lora_rank_4_lr_up/inf_gen/base_model/768x1024
 #### Метрики
 Метрик в данном задании не имеется
 #### График loss и Logging
 $LOSS GPAPH  
+tensorboard --logdir=HW4/db_generation_lora_rank_4_lr_up/log_dir/
 #### Вывод
 Слишком большой rank и lr  
 ### 5. rank 32 lr 8e-5
-Папки с визуализацией - ./db_generation_lora_rank_32/inf_gen/base_model/768x1024
+Папка с визуализацией - ./HW4/db_generation_lora_rank_32/inf_gen/base_model/768x1024
 #### Результаты обучения
 Получилось обучить нейросеть.  
 Считаю, что получился $ результат
@@ -183,15 +186,16 @@ $IMAGE
 $IMAGE  
 $IMAGE  
 $IMAGE  
-./db_generation_lora_rank_32_lr_up/inf_gen/base_model/768x1024
+./HW4/db_generation_lora_rank_32/inf_gen/base_model/768x1024
 #### Метрики
 Метрик в данном задании не имеется
 #### График loss и Logging
 $LOSS GPAPH  
+tensorboard --logdir=HW4/db_generation_lora_rank_32/log_dir/
 #### Вывод
 Слишком большой rank и lr  
 ### 6. rank 16 lr 8e-5
-Папки с визуализацией - ./db_generation_lora_rank_32/inf_gen/base_model/768x1024
+Папка с визуализацией - ./HW4/db_generation_lora_rank_16/inf_gen/base_model/768x1024
 #### Результаты обучения
 Получилось обучить нейросеть.  
 Считаю, что получился $ результат
@@ -202,15 +206,16 @@ $IMAGE
 $IMAGE  
 $IMAGE  
 $IMAGE  
-./db_generation_lora_rank_32_lr_up/inf_gen/base_model/768x1024
+./HW4/db_generation_lora_rank_16/inf_gen/base_model/768x1024
 #### Метрики
 Метрик в данном задании не имеется
 #### График loss и Logging
 $LOSS GPAPH  
+tensorboard --logdir=HW4/db_generation_lora_rank_16/log_dir/
 #### Вывод
 Слишком большой rank и lr  
 ### 7. rank 8 lr 8e-5
-Папки с визуализацией - ./db_generation_lora_rank_32/inf_gen/base_model/768x1024
+Папка с визуализацией - ./HW4/db_generation_lora_rank_8/inf_gen/base_model/768x1024
 #### Результаты обучения
 Получилось обучить нейросеть.  
 Считаю, что получился $ результат
@@ -221,15 +226,16 @@ $IMAGE
 $IMAGE  
 $IMAGE  
 $IMAGE  
-./db_generation_lora_rank_32_lr_up/inf_gen/base_model/768x1024
+./HW4/db_generation_lora_rank_8/inf_gen/base_model/768x1024
 #### Метрики
 Метрик в данном задании не имеется
 #### График loss и Logging
 $LOSS GPAPH  
+tensorboard --logdir=HW4/db_generation_lora_rank_8/log_dir/
 #### Вывод
 Слишком большой rank и lr  
 ### 8. rank 4 lr 8e-5
-Папки с визуализацией - ./db_generation_lora_rank_32/inf_gen/base_model/768x1024
+Папка с визуализацией - ./HW4/db_generation_lora_rank_4/inf_gen/base_model/768x1024
 #### Результаты обучения
 Получилось обучить нейросеть.  
 Считаю, что получился $ результат
@@ -240,15 +246,16 @@ $IMAGE
 $IMAGE  
 $IMAGE  
 $IMAGE  
-./db_generation_lora_rank_32_lr_up/inf_gen/base_model/768x1024
+./HW4/db_generation_lora_rank_4/inf_gen/base_model/768x1024
 #### Метрики
 Метрик в данном задании не имеется
 #### График loss и Logging
 $LOSS GPAPH  
+tensorboard --logdir=HW4/db_generation_lora_rank_4/log_dir/
 #### Вывод
 Слишком большой rank и lr  
 ### 9. rank 32 lr 8e-3
-Папки с визуализацией - ./db_generation_lora_rank_32_lr_up_up/inf_gen/base_model/768x1024
+Папка с визуализацией - ./HW4/db_generation_lora_rank_32_lr_up_up/inf_gen/base_model/768x1024
 #### Результаты обучения
 Получилось обучить нейросеть.  
 Считаю, что получился $ результат
@@ -259,15 +266,16 @@ $IMAGE
 $IMAGE  
 $IMAGE  
 $IMAGE  
-./db_generation_lora_rank_32_lr_up/inf_gen/base_model/768x1024
+./HW4/db_generation_lora_rank_32_lr_up_up/inf_gen/base_model/768x1024
 #### Метрики
 Метрик в данном задании не имеется
 #### График loss и Logging
 $LOSS GPAPH  
+tensorboard --logdir=HW4/db_generation_lora_rank_32_lr_up_up/log_dir/
 #### Вывод
 Слишком большой rank и lr  
 ### 10. rank 16 lr 8e-3
-Папки с визуализацией - ./db_generation_lora_rank_32_lr_up_up/inf_gen/base_model/768x1024
+Папка с визуализацией - ./HW4/db_generation_lora_rank_16_lr_up_up/inf_gen/base_model/768x1024
 #### Результаты обучения
 Получилось обучить нейросеть.  
 Считаю, что получился $ результат
@@ -278,15 +286,16 @@ $IMAGE
 $IMAGE  
 $IMAGE  
 $IMAGE  
-./db_generation_lora_rank_32_lr_up/inf_gen/base_model/768x1024
+./HW4/db_generation_lora_rank_16_lr_up_up/inf_gen/base_model/768x1024
 #### Метрики
 Метрик в данном задании не имеется
 #### График loss и Logging
 $LOSS GPAPH  
+tensorboard --logdir=HW4/db_generation_lora_rank_16_lr_up_up/log_dir/
 #### Вывод
 Слишком большой rank и lr  
 ### 11. rank 8 lr 5e-3
-Папки с визуализацией - ./db_generation_lora_rank_32_lr_up_up/inf_gen/base_model/768x1024
+Папка с визуализацией - ./HW4/db_generation_lora_rank_8_lr_up_up/inf_gen/base_model/768x1024
 #### Результаты обучения
 Получилось обучить нейросеть.  
 Считаю, что получился $ результат
@@ -297,15 +306,16 @@ $IMAGE
 $IMAGE  
 $IMAGE  
 $IMAGE  
-./db_generation_lora_rank_32_lr_up/inf_gen/base_model/768x1024
+./HW4/db_generation_lora_rank_8_lr_up_up/inf_gen/base_model/768x1024
 #### Метрики
 Метрик в данном задании не имеется
 #### График loss и Logging
 $LOSS GPAPH  
+tensorboard --logdir=HW4/db_generation_lora_rank_8_lr_up_up/log_dir/
 #### Вывод
 Слишком большой rank и lr  
 ### 12. rank 4 lr 5e-3
-Папки с визуализацией - ./db_generation_lora_rank_32_lr_up_up/inf_gen/base_model/768x1024
+Папка с визуализацией - ./HW4/db_generation_lora_rank_4_lr_up_up/inf_gen/base_model/768x1024
 #### Результаты обучения
 Получилось обучить нейросеть.  
 Считаю, что получился $ результат
@@ -316,15 +326,16 @@ $IMAGE
 $IMAGE  
 $IMAGE  
 $IMAGE  
-./db_generation_lora_rank_32_lr_up/inf_gen/base_model/768x1024
+./HW4/db_generation_lora_rank_4_lr_up_up/inf_gen/base_model/768x1024
 #### Метрики
 Метрик в данном задании не имеется
 #### График loss и Logging
 $LOSS GPAPH  
+tensorboard --logdir=HW4/db_generation_lora_rank_4_lr_up_up/log_dir/
 #### Вывод
 Слишком большой rank и lr  
 ### 13. rank 2 lr 2e-4
-Папки с визуализацией - ./db_generation_lora_rank_2/inf_gen/base_model/768x1024
+Папка с визуализацией - ./HW4/db_generation_lora_rank_2/inf_gen/base_model/768x1024
 #### Результаты обучения
 Получилось обучить нейросеть.  
 Считаю, что получился $ результат
@@ -335,15 +346,16 @@ $IMAGE
 $IMAGE  
 $IMAGE  
 $IMAGE  
-./db_generation_lora_rank_32_lr_up/inf_gen/base_model/768x1024
+./HW4/db_generation_lora_rank_2/inf_gen/base_model/768x1024
 #### Метрики
 Метрик в данном задании не имеется
 #### График loss и Logging
 $LOSS GPAPH  
+tensorboard --logdir=HW4/db_generation_lora_rank_2/log_dir/
 #### Вывод
 Слишком большой rank и lr  
 ### 14. rank 4 lr 2e-4
-Папки с визуализацией - ./db_generation_lora_rank_4_lr_half/inf_gen/base_model/768x1024
+Папка с визуализацией - ./HW4/db_generation_lora_rank_4_lr_half/inf_gen/base_model/768x1024
 #### Результаты обучения
 Получилось обучить нейросеть.  
 Считаю, что получился $ результат
@@ -354,12 +366,12 @@ $IMAGE
 $IMAGE  
 $IMAGE  
 $IMAGE  
-.HW4/db_generation_lora_rank_32_lr_up/inf_gen/base_model/768x1024
+.HW4/db_generation_lora_rank_4_lr_half/inf_gen/base_model/768x1024
 #### Метрики
 Метрик в данном задании не имеется
 #### График loss и Logging
 $LOSS GPAPH  
-tensorboard --logdir=HW4/db_generation_lora_rank_32_lr_up/log_dir/
+tensorboard --logdir=HW4/db_generation_lora_rank_4_lr_half/log_dir/
 #### Вывод
 Слишком большой rank и lr
 ## Сравнить лучший чекпоинт Unet и Lora
