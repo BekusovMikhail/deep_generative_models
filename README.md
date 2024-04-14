@@ -62,64 +62,303 @@ promt_list = [
 Получилось обучить нейросеть, автоматически сгенерировав регуляризационный датасет.  
 Считаю, что получился отличный результат :)
 #### График loss и Logging
-Прошу прощения, забыл выставить, так как создавал новый conda env, не установил tensorboard и послен обучения получил
-![image](https://github.com/BekusovMikhail/deep_generative_models/assets/63633043/aba8a89b-4aa7-4e6e-a806-72a0271ffc17)  
-![image](https://github.com/BekusovMikhail/deep_generative_models/assets/63633043/d9b96861-9e4a-4d04-a442-f22afabf9c1b)  
+$LOSS GPAPH  
 #### Графика метрик в данном задании не имеется
 #### 5-10 примеров работы нейросети
-![image](https://github.com/BekusovMikhail/deep_generative_models/assets/63633043/9cd64db8-b611-4b90-80f3-39b26055a856)  
-![image](https://github.com/BekusovMikhail/deep_generative_models/assets/63633043/4b57a002-8061-4f08-b30f-3e3bc83a0a5e)  
-![image](https://github.com/BekusovMikhail/deep_generative_models/assets/63633043/120d82b4-b48e-47ef-90fd-ff77e012e115)  
-![image](https://github.com/BekusovMikhail/deep_generative_models/assets/63633043/353d6fa3-60b4-470d-a390-6c7e16b1f078)  
-![image](https://github.com/BekusovMikhail/deep_generative_models/assets/63633043/64d7ecbf-f485-44cc-ab46-e9b40f97d9f7)  
+$IMAGE  
+$IMAGE  
+$IMAGE  
+$IMAGE  
+$IMAGE  
 Также Лежат в папке arthas_gen_unet  
 #### Метрики
 Метрик в данном задании не имеется  
 
-## Обучить LoRA модель
-### Графики loss для LoRA и Logging
-Прошу прощения, забыл выставить, так как создавал новый conda env, не установил tensorboard и послен обучения получил на каждом из обучений 
-![image](https://github.com/BekusovMikhail/deep_generative_models/assets/63633043/aba8a89b-4aa7-4e6e-a806-72a0271ffc17)  
-Подтверждение папки после обучений  
-![image](https://github.com/BekusovMikhail/deep_generative_models/assets/63633043/f8565658-6845-477c-bd65-46dda5ce7faa)  
+## Обучить LoRA модель 
 ## Эксперименты
 Цель: достичь самой лучшей и реалистичной генерации изображений с конкретным персонажем  
 Идея: подбор гиперпараметров lr и rank
 Результаты: в ноутбуке и ниже по каждому из экспериментов    
   
-rank 32 lr 8e-4  
-rank 16 lr 8e-4  
-rank 8 lr 8e-4  
-rank 4 lr 8e-4  
-rank 32 lr 8e-5  
-rank 16 lr 8e-5  
-rank 8 lr 8e-5  
-rank 4 lr 8e-5  
-rank 32 lr 8e-3  
-rank 16 lr 8e-3  
-rank 8 lr 5e-3  
-rank 4 lr 5e-3  
-rank 2 lr 2e-4  
-rank 4 lr 2e-4 - **Топ-1 вариант**
-### rank 32 lr 8e-4
+1. rank 32 lr 8e-4  
+2. rank 16 lr 8e-4  
+3. rank 8 lr 8e-4  
+4. rank 4 lr 8e-4  
+5. rank 32 lr 8e-5  
+6. rank 16 lr 8e-5  
+7. rank 8 lr 8e-5  
+8. rank 4 lr 8e-5  
+9. rank 32 lr 8e-3  
+10. rank 16 lr 8e-3  
+11. rank 8 lr 5e-3  
+12. rank 4 lr 5e-3  
+13. rank 2 lr 2e-4  
+14. rank 4 lr 2e-4 - **Топ-1 вариант**
+### 1. rank 32 lr 8e-4
 Папки с визуализацией - ./db_generation_lora_rank_32_lr_up/inf_gen/base_model/768x1024
 #### Результаты обучения
 Получилось обучить нейросеть.  
 Считаю, что получился средний результат
 #### Графика метрик в данном задании не имеется
 #### 5-10 примеров работы нейросети
+$IMAGE  
+$IMAGE  
+$IMAGE  
+$IMAGE  
+$IMAGE  
 ./db_generation_lora_rank_32_lr_up/inf_gen/base_model/768x1024
 #### Метрики
 Метрик в данном задании не имеется
+#### График loss и Logging
+$LOSS GPAPH  
+#### Вывод
+Слишком большой rank и lr  
+### 2. rank 16 lr 8e-4 
+Папки с визуализацией - ./db_generation_lora_rank_32_lr_up/inf_gen/base_model/768x1024
+#### Результаты обучения
+Получилось обучить нейросеть.  
+Считаю, что получился средний результат
+#### Графика метрик в данном задании не имеется
+#### 5-10 примеров работы нейросети
+$IMAGE  
+$IMAGE  
+$IMAGE  
+$IMAGE  
+$IMAGE  
+./db_generation_lora_rank_32_lr_up/inf_gen/base_model/768x1024
+#### Метрики
+Метрик в данном задании не имеется
+#### График loss и Logging
+$LOSS GPAPH  
+#### Вывод
+Слишком большой rank и lr  
+### 3. rank 8 lr 8e-4
+Папки с визуализацией - ./db_generation_lora_rank_32_lr_up/inf_gen/base_model/768x1024
+#### Результаты обучения
+Получилось обучить нейросеть.  
+Считаю, что получился средний результат
+#### Графика метрик в данном задании не имеется
+#### 5-10 примеров работы нейросети
+$IMAGE  
+$IMAGE  
+$IMAGE  
+$IMAGE  
+$IMAGE  
+./db_generation_lora_rank_32_lr_up/inf_gen/base_model/768x1024
+#### Метрики
+Метрик в данном задании не имеется
+#### График loss и Logging
+$LOSS GPAPH  
+#### Вывод
+Слишком большой rank и lr  
+### 4. rank 4 lr 8e-4
+Папки с визуализацией - ./db_generation_lora_rank_32_lr_up/inf_gen/base_model/768x1024
+#### Результаты обучения
+Получилось обучить нейросеть.  
+Считаю, что получился средний результат
+#### Графика метрик в данном задании не имеется
+#### 5-10 примеров работы нейросети
+$IMAGE  
+$IMAGE  
+$IMAGE  
+$IMAGE  
+$IMAGE  
+./db_generation_lora_rank_32_lr_up/inf_gen/base_model/768x1024
+#### Метрики
+Метрик в данном задании не имеется
+#### График loss и Logging
+$LOSS GPAPH  
+#### Вывод
+Слишком большой rank и lr  
+### 5. rank 32 lr 8e-5
+Папки с визуализацией - ./db_generation_lora_rank_32_lr_up/inf_gen/base_model/768x1024
+#### Результаты обучения
+Получилось обучить нейросеть.  
+Считаю, что получился средний результат
+#### Графика метрик в данном задании не имеется
+#### 5-10 примеров работы нейросети
+$IMAGE  
+$IMAGE  
+$IMAGE  
+$IMAGE  
+$IMAGE  
+./db_generation_lora_rank_32_lr_up/inf_gen/base_model/768x1024
+#### Метрики
+Метрик в данном задании не имеется
+#### График loss и Logging
+$LOSS GPAPH  
+#### Вывод
+Слишком большой rank и lr  
+### 6. rank 16 lr 8e-5
+Папки с визуализацией - ./db_generation_lora_rank_32_lr_up/inf_gen/base_model/768x1024
+#### Результаты обучения
+Получилось обучить нейросеть.  
+Считаю, что получился средний результат
+#### Графика метрик в данном задании не имеется
+#### 5-10 примеров работы нейросети
+$IMAGE  
+$IMAGE  
+$IMAGE  
+$IMAGE  
+$IMAGE  
+./db_generation_lora_rank_32_lr_up/inf_gen/base_model/768x1024
+#### Метрики
+Метрик в данном задании не имеется
+#### График loss и Logging
+$LOSS GPAPH  
+#### Вывод
+Слишком большой rank и lr  
+### 7. rank 8 lr 8e-5
+Папки с визуализацией - ./db_generation_lora_rank_32_lr_up/inf_gen/base_model/768x1024
+#### Результаты обучения
+Получилось обучить нейросеть.  
+Считаю, что получился средний результат
+#### Графика метрик в данном задании не имеется
+#### 5-10 примеров работы нейросети
+$IMAGE  
+$IMAGE  
+$IMAGE  
+$IMAGE  
+$IMAGE  
+./db_generation_lora_rank_32_lr_up/inf_gen/base_model/768x1024
+#### Метрики
+Метрик в данном задании не имеется
+#### График loss и Logging
+$LOSS GPAPH  
+#### Вывод
+Слишком большой rank и lr  
+### 8. rank 4 lr 8e-5
+Папки с визуализацией - ./db_generation_lora_rank_32_lr_up/inf_gen/base_model/768x1024
+#### Результаты обучения
+Получилось обучить нейросеть.  
+Считаю, что получился средний результат
+#### Графика метрик в данном задании не имеется
+#### 5-10 примеров работы нейросети
+$IMAGE  
+$IMAGE  
+$IMAGE  
+$IMAGE  
+$IMAGE  
+./db_generation_lora_rank_32_lr_up/inf_gen/base_model/768x1024
+#### Метрики
+Метрик в данном задании не имеется
+#### График loss и Logging
+$LOSS GPAPH  
+#### Вывод
+Слишком большой rank и lr  
+### 9. rank 32 lr 8e-3
+Папки с визуализацией - ./db_generation_lora_rank_32_lr_up/inf_gen/base_model/768x1024
+#### Результаты обучения
+Получилось обучить нейросеть.  
+Считаю, что получился средний результат
+#### Графика метрик в данном задании не имеется
+#### 5-10 примеров работы нейросети
+$IMAGE  
+$IMAGE  
+$IMAGE  
+$IMAGE  
+$IMAGE  
+./db_generation_lora_rank_32_lr_up/inf_gen/base_model/768x1024
+#### Метрики
+Метрик в данном задании не имеется
+#### График loss и Logging
+$LOSS GPAPH  
+#### Вывод
+Слишком большой rank и lr  
+### 10. rank 16 lr 8e-3
+Папки с визуализацией - ./db_generation_lora_rank_32_lr_up/inf_gen/base_model/768x1024
+#### Результаты обучения
+Получилось обучить нейросеть.  
+Считаю, что получился средний результат
+#### Графика метрик в данном задании не имеется
+#### 5-10 примеров работы нейросети
+$IMAGE  
+$IMAGE  
+$IMAGE  
+$IMAGE  
+$IMAGE  
+./db_generation_lora_rank_32_lr_up/inf_gen/base_model/768x1024
+#### Метрики
+Метрик в данном задании не имеется
+#### График loss и Logging
+$LOSS GPAPH  
+#### Вывод
+Слишком большой rank и lr  
+### 11. rank 8 lr 5e-3
+Папки с визуализацией - ./db_generation_lora_rank_32_lr_up/inf_gen/base_model/768x1024
+#### Результаты обучения
+Получилось обучить нейросеть.  
+Считаю, что получился средний результат
+#### Графика метрик в данном задании не имеется
+#### 5-10 примеров работы нейросети
+$IMAGE  
+$IMAGE  
+$IMAGE  
+$IMAGE  
+$IMAGE  
+./db_generation_lora_rank_32_lr_up/inf_gen/base_model/768x1024
+#### Метрики
+Метрик в данном задании не имеется
+#### График loss и Logging
+$LOSS GPAPH  
+#### Вывод
+Слишком большой rank и lr  
+### 12. rank 4 lr 5e-3
+Папки с визуализацией - ./db_generation_lora_rank_32_lr_up/inf_gen/base_model/768x1024
+#### Результаты обучения
+Получилось обучить нейросеть.  
+Считаю, что получился средний результат
+#### Графика метрик в данном задании не имеется
+#### 5-10 примеров работы нейросети
+$IMAGE  
+$IMAGE  
+$IMAGE  
+$IMAGE  
+$IMAGE  
+./db_generation_lora_rank_32_lr_up/inf_gen/base_model/768x1024
+#### Метрики
+Метрик в данном задании не имеется
+#### График loss и Logging
+$LOSS GPAPH  
+#### Вывод
+Слишком большой rank и lr  
+### 13. rank 2 lr 2e-4
+Папки с визуализацией - ./db_generation_lora_rank_32_lr_up/inf_gen/base_model/768x1024
+#### Результаты обучения
+Получилось обучить нейросеть.  
+Считаю, что получился средний результат
+#### Графика метрик в данном задании не имеется
+#### 5-10 примеров работы нейросети
+$IMAGE  
+$IMAGE  
+$IMAGE  
+$IMAGE  
+$IMAGE  
+./db_generation_lora_rank_32_lr_up/inf_gen/base_model/768x1024
+#### Метрики
+Метрик в данном задании не имеется
+#### График loss и Logging
+$LOSS GPAPH  
+#### Вывод
+Слишком большой rank и lr  
+### 14. rank 4 lr 2e-4
+Папки с визуализацией - ./db_generation_lora_rank_32_lr_up/inf_gen/base_model/768x1024
+#### Результаты обучения
+Получилось обучить нейросеть.  
+Считаю, что получился средний результат
+#### Графика метрик в данном задании не имеется
+#### 5-10 примеров работы нейросети
+$IMAGE  
+$IMAGE  
+$IMAGE  
+$IMAGE  
+$IMAGE  
+./db_generation_lora_rank_32_lr_up/inf_gen/base_model/768x1024
+#### Метрики
+Метрик в данном задании не имеется
+#### График loss и Logging
+$LOSS GPAPH  
 #### Вывод
 Слишком большой rank и lr
-### Эксперименты
-Цель: достичь обучения автоэнкодера на нормальных изображениях, чтобы в дальнейшем с помощью mse ошибки отсеивать изображения с проливом  
-Идея: реализовать автоэнкодер  
-Результаты: выше в результатах обучения  
-Mean MSE value for normal: 0.23744981735944748  
-Mean MSE value for proliv: 1.6871622800827026  
-Выводы: автоэнкодер реализован, по средним значениям mse видно, что ошибка у proliv гораздо больше  
-## Logging
-tensorboard --logdir=HW1/runs/  
-Прововодил множество экспериментов, около 70, но для того, чтобы было видно результат закоммитил только один
+## Сравнить лучший чекпоинт Unet и Lora
+## Генерация любого варианта Controlnet из ноутбука, для обученных Unet и Lora
