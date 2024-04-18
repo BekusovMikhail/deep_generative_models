@@ -62,14 +62,14 @@ promt_list = [
 Получилось обучить нейросеть, автоматически сгенерировав регуляризационный датасет.  
 Считаю, что получился отличный результат :)
 #### График loss и Logging
-$LOSS GPAPH  
+![image](https://github.com/BekusovMikhail/deep_generative_models/assets/63633043/0220a0c5-cf86-4b20-8437-7468c8eeea04)  
 #### Графика метрик в данном задании не имеется
 #### 5-10 примеров работы нейросети
-$IMAGE  
-$IMAGE  
-$IMAGE  
-$IMAGE  
-$IMAGE  
+![image](https://github.com/BekusovMikhail/deep_generative_models/assets/63633043/7d8c8cb2-91e8-4977-ac8e-416a2a3dabba)  
+![image](https://github.com/BekusovMikhail/deep_generative_models/assets/63633043/55f4e1d8-936b-4ca5-a801-c14ca40d78a4)  
+![image](https://github.com/BekusovMikhail/deep_generative_models/assets/63633043/70a28645-9e2f-4148-8486-6e98496741e8)  
+![image](https://github.com/BekusovMikhail/deep_generative_models/assets/63633043/736c544b-1d48-438f-8219-f3c509785383)  
+![image](https://github.com/BekusovMikhail/deep_generative_models/assets/63633043/c9349a27-49d9-4fde-bcc4-090ecbdffa76)  
 Также Лежат в папке arthas_gen_unet  
 #### Метрики
 Метрик в данном задании не имеется  
