@@ -1,5 +1,6 @@
 # Обучение поющей speech-to-speech модели so-VITS-svc
 [Ссылка](https://drive.google.com/drive/folders/12grjr42p1gxH0KtHCSxyph-YWNSm1inV?usp=sharing) на все песенки на гугл диске  
+Ноутбук с обучением, делением и установками: HW5/sovits_notebook.ipynb  
 ## Задачи
 Выбрать исполнителей референса и исходника
 Скачать песни
