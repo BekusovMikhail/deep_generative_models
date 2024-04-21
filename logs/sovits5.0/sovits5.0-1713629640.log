@@ -1,0 +1,19 @@
+2024-04-20 19:14:00,944 - INFO - Start from 32k pretrain model: ./vits_pretrain/sovits5.0.pretrain.pth
+2024-04-20 19:14:01,087 - INFO - Starting new training run.
+2024-04-20 19:14:06,270 - INFO - Saved checkpoint to: chkpt/sovits5.0/sovits5.0_0005.pt
+2024-04-20 19:14:11,112 - INFO - Saved checkpoint to: chkpt/sovits5.0/sovits5.0_0010.pt
+2024-04-20 19:14:16,114 - INFO - Saved checkpoint to: chkpt/sovits5.0/sovits5.0_0015.pt
+2024-04-20 19:14:20,925 - INFO - Saved checkpoint to: chkpt/sovits5.0/sovits5.0_0020.pt
+2024-04-20 19:14:25,753 - INFO - Saved checkpoint to: chkpt/sovits5.0/sovits5.0_0025.pt
+2024-04-20 19:14:30,710 - INFO - Saved checkpoint to: chkpt/sovits5.0/sovits5.0_0030.pt
+2024-04-20 19:14:35,651 - INFO - Saved checkpoint to: chkpt/sovits5.0/sovits5.0_0035.pt
+2024-04-20 19:14:40,692 - INFO - Saved checkpoint to: chkpt/sovits5.0/sovits5.0_0040.pt
+2024-04-20 19:14:45,659 - INFO - Saved checkpoint to: chkpt/sovits5.0/sovits5.0_0045.pt
+2024-04-20 19:14:50,680 - INFO - Saved checkpoint to: chkpt/sovits5.0/sovits5.0_0050.pt
+2024-04-20 19:14:55,658 - INFO - Saved checkpoint to: chkpt/sovits5.0/sovits5.0_0055.pt
+2024-04-20 19:15:00,770 - INFO - Saved checkpoint to: chkpt/sovits5.0/sovits5.0_0060.pt
+2024-04-20 19:15:05,719 - INFO - Saved checkpoint to: chkpt/sovits5.0/sovits5.0_0065.pt
+2024-04-20 19:15:10,566 - INFO - Saved checkpoint to: chkpt/sovits5.0/sovits5.0_0070.pt
+2024-04-20 19:15:15,570 - INFO - Saved checkpoint to: chkpt/sovits5.0/sovits5.0_0075.pt
+2024-04-20 19:15:20,528 - INFO - Saved checkpoint to: chkpt/sovits5.0/sovits5.0_0080.pt
+2024-04-20 19:15:25,504 - INFO - Saved checkpoint to: chkpt/sovits5.0/sovits5.0_0085.pt

@@ -1,0 +1,11 @@
+2024-04-21 17:20:36,865 - INFO - Start from 32k pretrain model: ./vits_pretrain/sovits5.0.pretrain.pth
+2024-04-21 17:20:37,014 - INFO - Starting new training run.
+2024-04-21 17:21:06,417 - INFO - Saved checkpoint to: chkpt/sovits5.0/sovits5.0_0005.pt
+2024-04-21 17:21:31,535 - INFO - Saved checkpoint to: chkpt/sovits5.0/sovits5.0_0010.pt
+2024-04-21 17:21:45,107 - INFO - epoch 13 | g 14.7334 m 0.5796 s 10.1158 d 0.3878 k 0.3205 r 0.5604 i 0.7408 | step 100
+2024-04-21 17:21:57,530 - INFO - Saved checkpoint to: chkpt/sovits5.0/sovits5.0_0015.pt
+2024-04-21 17:22:22,325 - INFO - Saved checkpoint to: chkpt/sovits5.0/sovits5.0_0020.pt
+2024-04-21 17:22:47,288 - INFO - epoch 25 | g 15.6508 m 0.5576 s 10.7805 d 0.3942 k 0.2797 r 0.4786 i 0.6584 | step 200
+2024-04-21 17:22:47,905 - INFO - Saved checkpoint to: chkpt/sovits5.0/sovits5.0_0025.pt
+2024-04-21 17:23:12,925 - INFO - Saved checkpoint to: chkpt/sovits5.0/sovits5.0_0030.pt
+2024-04-21 17:23:37,817 - INFO - Saved checkpoint to: chkpt/sovits5.0/sovits5.0_0035.pt
