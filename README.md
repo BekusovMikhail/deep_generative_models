@@ -1,4 +1,5 @@
 # Обучение поющей speech-to-speech модели so-VITS-svc
+[Ссылка](https://drive.google.com/drive/folders/12grjr42p1gxH0KtHCSxyph-YWNSm1inV?usp=sharing) на все песенки на гугл диске  
 ## Задачи
 Выбрать исполнителей референса и исходника
 Скачать песни
@@ -28,5 +29,7 @@ HW5/speaker0/full/Michael-Jackson-They-Don__039_t-Care-About-Us.wav
 tensorboard --logdir=HW5/logs/sovits5.0  
 ## Инференс сети на вокале целевой песни
 Сделано  
-Голос - HW5/result_voice
-Песня - HW5/result.wav
+Голос - HW5/result_voice.wav  
+[Ссылка на песню](https://drive.google.com/file/d/1iSjvp4V6Zp90uCUu94V_V94p0fVLtCT6/view?usp=drive_link)  
+Песня - HW5/result.wav  
+[Ссылка на песню](https://drive.google.com/file/d/1AZxsHI2T8y-sBkox1Lg_1pZJZhAEMiUP/view?usp=drive_link)  
