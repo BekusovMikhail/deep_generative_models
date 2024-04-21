@@ -23,7 +23,10 @@ HW5/speaker0/full/Michael-Jackson-They-Don__039_t-Care-About-Us.wav
 Папка - HW5/speaker1/sliced/sliced
 ## Обучить сеть на семплах
 Обучено  
+### Loss и tensorboard
 ![image](https://github.com/BekusovMikhail/deep_generative_models/assets/63633043/8f58ca08-5d70-46d2-8e29-3c7d4de9c15e)  
 tensorboard --logdir=HW5/logs/sovits5.0  
 ## Инференс сети на вокале целевой песни
 Сделано  
+Голос - HW5/result_voice
+Песня - HW5/result.wav
